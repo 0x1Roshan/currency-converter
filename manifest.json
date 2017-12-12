@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "currency-converter",
+    "description": "reaf",
+    "version": "1.0",
+    "page_action": {
+        "default_icon": "img.png",
+        "default_title": "currency converter",
+        "default_popup": "popup.html",
+    }
+}
